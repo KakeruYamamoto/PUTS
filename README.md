@@ -4,6 +4,7 @@
 
 ## 概要
 電子書籍のレンタルサービスです。
+小説投稿サービス
 会員登録は無料だがレビューは有料。（悪口は禁止）
 読んだ本をお金で評価できる（ランキング化）
 
@@ -49,10 +50,11 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vTLVdnF81Q_O93ebHGBfckJJhjXO4EKe
 https://docs.google.com/spreadsheets/d/e/2PACX-1vQW9UJIBgpQ7Ijd9oAv-vZYcxsO0X8r9bM9zWLJ4IOYV9aLLgRwe6T24Ae9gjOF-8gdesbHqiBhHtRi/pubhtml
 
 ## 使用予定Gem
-* carrierwave
-* mini_magick
-* devise
-* stripe
+* carrierwave(イメージ表示)
+* mini_magick（イメージサイズ）
+* devise（ログインシステム）
+* stripe（決済システム）
+
 
 # English Ver
 
